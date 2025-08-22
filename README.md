@@ -1,6 +1,6 @@
 # NLP Foundations Sprint: IMDB Sentiment Analysis Engine v1
 
-A foundational NLP sentiment analysis pipeline built in a 7-day sprint. This project demonstrates core AI engineering skills from data preprocessing to model evaluation as part of my self-driven "PRIME Protocol" to master the fundamentals.
+A foundational NLP sentiment analysis pipeline. This project demonstrates data preprocessing to model evaluation.
 
 ---
 
