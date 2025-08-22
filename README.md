@@ -1,4 +1,4 @@
-# NLP Foundations Sprint: IMDB Sentiment Analysis Engine v1
+# IMDB Sentiment Analysis Engine v1
 
 A foundational NLP sentiment analysis pipeline. This project demonstrates data preprocessing to model evaluation.
 
